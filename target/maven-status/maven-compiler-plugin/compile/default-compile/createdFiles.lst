@@ -1,0 +1,3 @@
+com\jcg\spring\hibernate\pojo\User.class
+com\jcg\spring\hibernate\service\AuthService.class
+com\jcg\spring\hibernate\ctrl\LoginCtrl.class
